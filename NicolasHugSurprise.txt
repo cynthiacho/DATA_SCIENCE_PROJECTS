@@ -1,0 +1,8 @@
+					References
+
+Hug, Nicolas. (2015). Welcome to Surprise’ documentation!. Surprise. https://surprise.readthedocs.io/en/stable/
+
+Hug, Nicolas. (2021). NicolasHug/Surprise. NicolasHug/Surprise. https://github.com/NicolasHug/Surprise
+
+
+
